@@ -1,0 +1,32 @@
+site_name: Techincal Debts and Recommendations
+use_directory_urls: false
+theme:
+  name: 'dracula'
+  logo: 'https://i.ibb.co/GJ7DtgZ/cropped-Meme-Chat-Logo.png'
+  palette:
+    primary: 'blue'
+    accent: 'teal'
+  sidebar:
+    nav: auto
+site_dir: site
+nav:
+  - Table of Contents: 'toc.md'
+  - Implement Comprehensive Caching: 'comprehensive-caching.md'
+  - Index Optimization: 'index-optimization.md'
+  - BigQuery Integration: 'bigquery-integration.md'
+  - Query Optimization: 'query-optimization.md'
+  - Service Integration: 'service-integration.md'
+  - Codebase Refinement: 'codebase-refinement.md'
+  - Resource Optimization on Google Cloud: 'resource-optimization.md'
+  - CI/CD Implementation: 'ci-cd-implementation.md'
+  - Enhance API and Service Security: 'api-service-security.md'
+  - Upgrade MySQL Version: 'upgrade-mysql-version.md'
+  - Enhance Campaign Engagement Simulation: 'campaign-engagement.md'
+  - OCR Enhancement and Regionalization Revival: 'ocr-regionalization.md'
+  - Automated User Payments and Interaction-based Distribution: 'automated-user-payments.md'
+  - Strategic Ad Placement: 'strategic-ad-placement.md'
+  - Enhance Object Security with Access Policies: 'object-security.md'
+  - Docker Container Optimization: 'docker-container-optimization.md'
+  - Feed Recommendation Implementation: 'feed-recommendation.md'
+  - In-App Marketplace and Promotions: 'in-app-marketplace.md'
+  - Repository README Update: 'repository-readme-update.md'
